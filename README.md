@@ -1,2 +1,2 @@
 # wire-cell-quickhull
-https://github.com/akuukka/quickhull
+copied from https://github.com/akuukka/quickhull
