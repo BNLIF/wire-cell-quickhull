@@ -6,8 +6,8 @@
 //  Copyright © 2016 Antti Kuukka. All rights reserved.
 //
 
-#include "WireCellQuickhull/QuickHull.h"
-#include "WireCellQuickhull/MathUtils.h"
+#include "WCPQuickhull/QuickHull.h"
+#include "WCPQuickhull/MathUtils.h"
 #include <iostream>
 #include <random>
 #include <cassert>

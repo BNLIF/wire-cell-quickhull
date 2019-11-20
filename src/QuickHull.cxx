@@ -1,12 +1,12 @@
-#include "WireCellQuickhull/QuickHull.h"
-#include "WireCellQuickhull/MathUtils.h"
+#include "WCPQuickhull/QuickHull.h"
+#include "WCPQuickhull/MathUtils.h"
 #include <cmath>
 #include <cassert>
 #include <iostream>
 #include <algorithm>
 #include <deque>
 #include <limits>
-#include "WireCellQuickhull/Mesh.h"
+#include "WCPQuickhull/Mesh.h"
 
 namespace quickhull {
 	
